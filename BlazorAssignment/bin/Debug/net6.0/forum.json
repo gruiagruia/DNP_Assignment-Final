@@ -1,0 +1,18 @@
+{
+  "Users": [
+    {
+      "Name": "Gruia",
+      "Password": "Pass1234",
+      "Role": "user",
+      "SecurityLevel": 5
+    }
+  ],
+  "Posts": [
+    {
+      "Id": 1,
+      "Owner": "cecece",
+      "Title": "cecece",
+      "Body": "cececec"
+    }
+  ]
+}

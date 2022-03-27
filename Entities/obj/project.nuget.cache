@@ -1,0 +1,12 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "d3LHBvbJh5Tr4FyWLMPs4sEo3nLOi5IVldIpU4KuXt4L6c4oJ6So6JBip8v/KCNd/urw6fnOV6HXq9yAjT7Ujg==",
+=======
+  "dgSpecHash": "4Vot5LRcjDH+BSrMPwxGOxU6ngKiwyqnWmg/Frxksl0VbrZIXiWpN1MDRoSWRZ1hxj5JcOOQuTcR1wJsYX2PpA==",
+>>>>>>> origin/master
+  "success": true,
+  "projectFilePath": "E:\\VIA\\DNP\\DNP1\\AssignmentDNP-1\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

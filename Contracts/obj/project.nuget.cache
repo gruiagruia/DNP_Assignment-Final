@@ -1,0 +1,12 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "WpRsKJWsGcZsh3ADqBdsjAVGiCltfsHnaWGvVrA0FykIvma2jZgFhSiYlx82mPUbeolzg05h6OjYCeq0lQcl4A==",
+=======
+  "dgSpecHash": "p2ShpTtGJaewumcoC98DEoRufIlYe5u0WkBhn+gZJnIkAwcH6nko83fXCyePBfq95PHCsV99BCVEh10679IkIw==",
+>>>>>>> origin/master
+  "success": true,
+  "projectFilePath": "E:\\VIA\\DNP\\DNP1\\AssignmentDNP-1\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

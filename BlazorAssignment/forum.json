@@ -1,0 +1,30 @@
+{
+  "Users": [
+    {
+      "Name": "Gruia",
+      "Password": "Pass1234",
+      "Role": "user",
+      "SecurityLevel": 5
+    },
+    {
+      "Name": "Gruia",
+      "Password": "Pass1234",
+      "Role": "user",
+      "SecurityLevel": 5
+    }
+  ],
+  "Posts": [
+    {
+      "Id": 1,
+      "Owner": "cecece",
+      "Title": "cecece",
+      "Body": "cececec"
+    },
+    {
+      "Id": 2,
+      "Owner": "Best Author 4 Sure",
+      "Title": "This is the best post ever!",
+      "Body": "I can\u0027t believe how good this post is."
+    }
+  ]
+}

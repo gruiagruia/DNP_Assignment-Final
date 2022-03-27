@@ -1,0 +1,12 @@
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\bin\Debug\net6.0\Entities.dll
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\bin\Debug\net6.0\ref\Entities.dll
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\bin\Debug\net6.0\Entities.pdb
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\obj\Debug\net6.0\Entities.dll
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\obj\Debug\net6.0\ref\Entities.dll
+E:\VIA\DNP\DNP1\AssignmentDNP-1\Entities\obj\Debug\net6.0\Entities.pdb

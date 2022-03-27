@@ -1,0 +1,33 @@
+.box[b-mf028echwm] {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+   
+}
+
+.field[b-mf028echwm] {
+    margin-top: 20px;
+}
+
+.acceptbtn[b-mf028echwm] {
+    background-color:lightgreen;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.acceptbtn:hover[b-mf028echwm] {
+    background-color: #00d900;
+}
+
+.form-group[b-mf028echwm],
+.actions[b-mf028echwm],
+h3[b-mf028echwm]{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
